@@ -1,0 +1,30 @@
+<banking_customers>
+<customer>
+<id>12</id>
+<name>Susan Stone</name>
+<checking_account>465498435</checking_account>
+</customer>
+<customer>
+<id>34</id>
+<name>Roger Roman</name>
+<checking_account>165498165</checking_account>
+<checking_account>654684321</checking_account>
+<savings_account>64565435</savings_account>
+</customer>
+<customer>
+<id>56</id>
+<name>Gary Grooman</name>
+<checking_account>654846546</checking_account>
+</customer>
+<customer>
+<id>78</id>
+<name>Janet Jones</name>
+<checking_account>954387383</checking_account>
+</customer>
+<customer>
+<id>91</id>
+<name>Nancy Noons</name>
+<checking_account>684981651</checking_account>
+<savings_account>5645648465</savings_account>
+</customer>
+</banking_customers>

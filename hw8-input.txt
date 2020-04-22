@@ -1,0 +1,3 @@
+http://kitty.ninja/file1.xml
+http://kitty.ninja/badurl.xml
+http://kitty.ninja/file3.xml

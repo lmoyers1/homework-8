@@ -1,0 +1,17 @@
+2020-04-14 11:53:48,589 INFO     Begin fetching customer data
+2020-04-14 11:53:48,589 INFO     Now attempting to get data at: http://kitty.ninja/file1.xml
+2020-04-14 11:53:48,752 INFO     200 - Successfully retrieved http://kitty.ninja/file1.xml
+2020-04-14 11:53:48,753 INFO     Now processing customer ID 12
+2020-04-14 11:53:48,753 INFO     Now processing customer ID 34
+2020-04-14 11:53:48,753 INFO     Now processing customer ID 56
+2020-04-14 11:53:48,754 INFO     Now processing customer ID 78
+2020-04-14 11:53:48,754 INFO     Now processing customer ID 91
+2020-04-14 11:53:48,755 INFO     Now attempting to get data at: http://kitty.ninja/badurl.xml
+2020-04-14 11:53:48,878 ERROR    404 - Resource not found for http://kitty.ninja/badurl.xml
+2020-04-14 11:53:48,878 INFO     Now attempting to get data at: http://kitty.ninja/file3.xml
+2020-04-14 11:53:48,991 INFO     200 - Successfully retrieved http://kitty.ninja/file3.xml
+2020-04-14 11:53:48,991 INFO     Now processing customer ID 23
+2020-04-14 11:53:48,991 INFO     Now processing customer ID 45
+2020-04-14 11:53:48,991 INFO     Now processing customer ID 67
+2020-04-14 11:53:48,991 INFO     Now processing customer ID 89
+2020-04-14 11:53:48,991 INFO     Now processing customer ID 98
